@@ -1,6 +1,6 @@
 # book-search-engine
 
-![book-search-engine-demo](./media/demo/demo_1.gif)
+![book-search-engine-demo](./images/demo/bsDemo.gif)
 
 ## Overview
 In this activity, the user was given a functioning React application using REST API to be refactored to using Apollo GraphQL. 
@@ -34,11 +34,11 @@ In this activity, the user was given a functioning React application using REST 
 - [Queries](https://www.apollographql.com/docs/react/data/queries/)
 
 ## Links
-- [Repository](https://github.com/huirayj/book-search-engine)
-- [Deployed Site](https://budget-tracker-huirayj.herokuapp.com/)
+- [Repository](https://github.com/aaron-might/book-search-engine)
+- [Deployed Site](https://might-210.herokuapp.com/)
 
 ## Screenshot
-### Desktop
+
 ![Google Book Search Desktop](./images/savedsearchBooks.png)
 ![Google Book Search Desktop](./images/searchbooks.png)
 ![Google Book Search Desktop](./images/signup.png)
